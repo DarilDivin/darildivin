@@ -1,7 +1,7 @@
-![MasterHead](./image/barner.png)
-<h1 align="center">Hi 👋, I'm Divin Djodjo Kouton</h1>
+<!--![MasterHead](./image/barner.png)-->
+<h1 align="left">Hi 👋, I'm Divin Djodjo Kouton</h1>
 <h2 align="left">A computer science student from Benin</h2>
-<img align="right" alt="Coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif"/>
+<img align="right" alt="Coding" width="350" height="350" style="border-radius: 50%;" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif"/>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=darildivin&label=Profile%20views&color=0e75b6&style=flat" alt="darildivin" /> </p>
 
