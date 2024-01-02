@@ -12,7 +12,7 @@
 
 - 🌱 I'm actually learning **Python & ReactJs**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **darkout2004@gmail.com**
 
