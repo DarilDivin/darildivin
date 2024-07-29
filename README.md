@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/divindjk" target="blank"><img src="https://img.shields.io/twitter/follow/divindjk?logo=twitter&style=for-the-badge" alt="divindjk" /></a> </p> -->
 
-- 🔭 I'm actually working on a project **RecordKeeper**
+- 🔭 I'm actually working on a project **Ebiblio**
 
 - 🌱 I'm actually learning **Python & ReactJs**
 
