@@ -1,4 +1,4 @@
-## Hi 👋, I'm Divin D.K.
+## Hi 👋, I'm Daril D.K.
 ### 👨‍💻 Passionate about Technology and Innovation
 Welcome to my GitHub! I’m a computer science student with a strong passion for impactful technological projects. Curious and creative, I’m particularly interested in artificial intelligence, data science, and fields like automotive, aerospace, architecture, and robotics.
 <!-- <img align="right" alt="Coding" width="350" height="350" style="border-radius: 50%;" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif"/> -->
