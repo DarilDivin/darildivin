@@ -19,7 +19,7 @@ Welcome to my GitHub! I’m a computer science student with a strong passion for
 ##### 🎯 My goals:
 Combining technology and creativity to design innovative solutions and contribute to advancements in key industries. Always seeking new challenges, I believe in the power of collaboration to build a better future.
 
-
+##### 📫 How to reach me **darkout2004@gmail.com**
 
 
 
