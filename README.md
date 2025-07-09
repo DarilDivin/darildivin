@@ -19,7 +19,7 @@ Welcome to my GitHub! I’m a computer science student with a strong passion for
 ##### 🎯 My goals:
 Combining technology and creativity to design innovative solutions and contribute to advancements in key industries. Always seeking new challenges, I believe in the power of collaboration to build a better future.
 
-##### 📫 How to reach me **darkout2004@gmail.com**
+##### 📫 How to reach me **daril.djodjokouton@gmail.com**
 
 ---
 
@@ -38,6 +38,7 @@ Combining technology and creativity to design innovative solutions and contribut
 <a href="https://twitter.com/divindjk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="divindjk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/daril-divin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daril-divin" height="30" width="40" /></a>
 <a href="https://instagram.com/divinkedd04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divinkedd04" height="30" width="40" /></a>
+<a href="https://daril.fr" target="blank"><img align="center" src="https://daril.fr/favicon.svg" alt="Daril.fr" height="30" width="40" /></a>
 </p>
 
 <!--
